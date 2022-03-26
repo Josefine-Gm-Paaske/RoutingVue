@@ -1,15 +1,12 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
- </div>
+  <div class="FrontPage">
+    <h1>Tester</h1>
+  </div>
 </template>
 
 <script>
 export default {
-  name: "HelloWorld",
-  props: {
-    msg: String
-  }
+  props: {}
 };
 </script>
 
@@ -27,6 +24,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #b19b73;
 }
 </style>
